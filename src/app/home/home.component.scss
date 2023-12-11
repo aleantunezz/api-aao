@@ -3,6 +3,14 @@ $card-background: #3c3e44;
 $text-color: #ffffff;
 $accent-color: #9cd5c4;
 
+header {
+    background-color: #ffffff;
+    color: #202329;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
 body {
   background-color: $background-color;
   color: $text-color;
